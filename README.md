@@ -11,13 +11,6 @@
 </p>
 
 
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
